@@ -1,0 +1,13 @@
+{
+  "name": "react-web-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A react project",
+  "author": "",
+  "scripts": {},
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {}
+}
